@@ -1,0 +1,6 @@
+@media(max-width: 600px){
+    .vh-small{height: 100vh;}
+    .design::before{
+        font-size: 20rem;
+      }
+}
